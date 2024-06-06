@@ -1,6 +1,6 @@
 # CPU-Scheduling-Environment
 CPU Scheduling Simulator
-This project is a case study report for the course 21CSC202J - Operating Systems, focused on the implementation and simulation of various CPU scheduling algorithms using Java and a graphical user interface (GUI) built with Java Swing. It provides an immersive learning experience by allowing users to visualize and analyze the behavior of different scheduling algorithms in a real-time simulated environment.
+Operating Systems, focused on the implementation and simulation of various CPU scheduling algorithms using Java and a graphical user interface (GUI) built with Java Swing. It provides an immersive learning experience by allowing users to visualize and analyze the behavior of different scheduling algorithms in a real-time simulated environment.
 Table of Contents
 
 Introduction
